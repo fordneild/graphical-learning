@@ -1,0 +1,118 @@
+  last week i did a phone interview with my rwn co blogger ron coleman of likelihood of confusion and likelihood of success _meta_end_dot_
+
+ ron is one the premier internet lawyers out there and has represented numerous bloggers myself included in court and or against legal bullying _meta_end_dot_
+
+ what follows is an edited transcript of our conversation _meta_end_dot_
+
+ what s the most common mistake you see bloggers making _meta_end_question_
+
+ what are you seeing people do that could get them sued _meta_end_question_
+
+ well it s fair to say that well over _meta_percent_ref_ of bloggers are not risking any legal trouble _meta_end_dot_
+
+ most people write their original thoughts they make legitimate links and even things like hotlinking graphics even aside from the copyright issue are probably not actionable _meta_end_dot_
+
+ it s interesting to think about whether if you knocked out someone s website with a hotlink to a graphic he could come after you on a trespassing theory _meta_end_dot_
+
+ but if there is any single problem that seems to consistently be out there it s copyright infringement regarding the use of photographs from news services _meta_end_dot_
+
+ well let s talk a little bit about that _meta_end_dot_
+
+ one of the toughest areas for bloggers to make a determination about because it s kind of nebulous in the law is fair use _meta_end_dot_
+
+ can you give us a quick guideline to follow _meta_end_question_
+
+ how can bloggers steer clear of trouble in the copyright arena _meta_end_question_
+
+ fair use is a great doctrine in copyright law but it s a little hard to apply on an as you go basis especially in regard to photographs _meta_end_dot_
+
+ the rule of thumb on all fair use is probably at what one point are you replacing the need for readers to view the original work by providing yours _meta_end_question_
+
+ for example the associated press view regarding text is that the headline and the lead paragraph of every story may not be quoted exactly as written in a blogger s story or anywhere else because that is what they sell _meta_end_dot_
+
+ now without acknowledging that they are right or wrong about that it s an internally consistent position _meta_end_dot_
+
+ as a general rule you look at the percentage of work used but what the ap is saying is in this case almost without regard for the rest of the story that s used people who are scanning a site that has paid for the associated press feed are looking at the headline and the first paragraph _meta_end_dot_
+
+ that s the value _meta_end_dot_
+
+ beyond that kind of special case you generally want to look at the percentage used and whether in order to get the full value of the original work you still need to go to the original or not _meta_end_dot_
+
+ with photos it s much more complex _meta_end_dot_
+
+ i think you can make a rule of thumb regarding photographs that there is usually not a fair use basis to use anything like a recent new picture from a newspaper or some other site on your blog _meta_end_dot_
+
+ all things being equal and keeping in mind that there are exceptions upon exceptions if in doubt when it comes to pictures you should not display it on your website _meta_end_dot_
+
+ now many people say things online that they would never say to another person in the real world _meta_end_dot_
+
+ they slander them make threats etc _meta_end_dot_
+
+ just to clarify is there a meaningful legal difference between saying that sort of thing online and saying it in the real world the real world historically has been divided into two largely conceptual spheres _meta_end_dot_
+
+ there is a difference between what you say orally and what you say in writing _meta_end_dot_
+
+ what the internet has done is given us a hybrid where we act as if we are speaking orally but we make our comments in writing _meta_end_dot_
+
+ so technically speaking the law will treat your written comments in the same way it would treat other written comments in a book newspaper magazine or a letter _meta_end_dot_
+
+ on the other hand a court considering the defamatory effect of internet statements will inevitably consider the question of how seriously do people take comments in the comments thread of a blog _meta_end_question_
+
+ in other words the test for defamation doesn t change but the measure of damage would certainly be considered in the context of how authoritative and above the fold a statement is as compared to say comment _meta_number_ref_ in a blog that isn t particularly well read _meta_end_dot_
+
+ i am frequently approached with requests to deal with internet defamation situations and overwhelmingly my advice is _meta_end_dot_
+
+ let me guess that they would be better off not suing because it would just draw more attention to it _meta_end_dot_
+
+ absolutely absolutely it draws attention on so many levels and it also gives the defamer the opportunity to put you on trial for the act that you claim never took place because the fundamental question in a defamation action is whether the statement that was made about you is true _meta_end_dot_
+
+ so even if it isn t technically true it may be damaging enough and as you say meanwhile inevitably more attention is drawn to the cure than to the damage _meta_end_dot_
+
+ it almost never pays _meta_end_dot_
+
+ and people online almost always side with the person being sued _meta_end_dot_
+
+ i think that it is the case that on the internet there is a punky attitude that disguises itself as sort of an electronic libertarianism that is unreasonably skewed towards assuming that information wants to be free or the best antidote to a false statement is a corrective statement _meta_end_dot_
+
+ i ve actually written at length on this topic _meta_end_dot_
+
+ although it s true that defamation on the internet is best ignored on the other hand unlike all previous forms of publishing in the history of mankind it is easier to create more damage faster and with fewer consequences on the internet than it ever has been before and american defamation law in particular is probably unreasonably slanted in favor of a very strong presumption against permitting defamation claims to succeed based on what the world looked like _meta_number_ref_ years ago _meta_end_dot_
+
+ an issue that has come up more than a few times relates to the privateness of email _meta_end_dot_
+
+ if someone reveals the contents of email he receives from you whether solicited or not do you have legal recourse _meta_end_question_
+
+ i m not aware of any case that says releasing someone s email is actionable _meta_end_dot_
+
+ so probably not _meta_end_dot_
+
+ so if you send an email you should be prepared for it to go public right _meta_end_question_
+
+ there s a strong argument for not using your work email for any online playing _meta_end_dot_
+
+ oh yeah i ve seen lots of disasters happen related to that _meta_end_dot_
+
+ yeah you don t want to drag your employer or your employment relationship onto the internet where you have decided to be a troll or have decided to take a controversial stand on a controversial issue _meta_end_dot_
+
+ as a regular person on the internet what sort of privacy rights do you have _meta_end_question_
+
+ it depends on where you are located _meta_end_dot_
+
+ i can tell you for example that in europe they have a fetish about privacy _meta_end_dot_
+
+ it also depends for example what you re doing _meta_end_dot_
+
+ for example registering for a website has the effect of creating a little law between you and the people who took your registration information _meta_end_dot_
+
+ so you have rights against them that you wouldn t necessarily have with strangers _meta_end_dot_
+
+ the fact is that in the united states privacy is very very narrowly circumscribed _meta_end_dot_
+
+ to a large extent your problems on the internet involving privacy are not going to be solved in the court _meta_end_dot_
+
+ they are just not built for that _meta_end_dot_
+
+ ron i really appreciate your time _meta_end_dot_
+
+ 
+

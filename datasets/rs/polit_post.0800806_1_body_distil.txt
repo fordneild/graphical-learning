@@ -1,0 +1,68 @@
+  thanks to those of you who have contributed to our redesign effort _meta_end_dot_
+
+ a number of you have asked some technical questions and though not a techie i hope i can answer them _meta_end_dot_
+
+ first a number of you want to know why we need money if we re connected to eagle publishing _meta_end_dot_
+
+ that one to me is easy eagle contributed _meta_dollor_ref_ _meta_number_ref_ _meta_number_ref_ to the redesign process already _meta_end_dot_
+
+ redstate earns eagle exactly zero dollars _meta_end_dot_
+
+ so we really do need your help to raise the additional money _meta_end_dot_
+
+ second everyone wants to know exactly what we re doing and why we re leaving drupal _meta_end_dot_
+
+ let me handle these in reverse order _meta_end_dot_
+
+ we re leaving drupal because we don t like it and neither do any readers who have been around here for a while _meta_end_dot_
+
+ it is difficult to use and it is hard to add new features to _meta_end_dot_
+
+ we actually tried to keep drupal _meta_end_dot_
+
+ we spent a lot of our budget trying to keep drupal despite our developer telling us we should not _meta_end_dot_
+
+ we finally listened to the developer and it has been refreshing to see what they were able to put together for us _meta_end_dot_
+
+ over the past year and a half we ve found more and more that we have had to conform to drupal not the other way around _meta_end_dot_
+
+ and adding modules has caused conflicts with other modules and customization work we did when we switched to drupal _meta_end_dot_
+
+ a fresh start was required _meta_end_dot_
+
+ now on the other part i know a lot of you want us to switch to ruby _meta_end_dot_
+
+ it s new and sexy _meta_end_dot_
+
+ but we trusted our developer who initially recommended ruby but after delving into redstate decided we did not need it and we would have scalability issues and database issues to deal with that would cause problems _meta_end_dot_
+
+ instead we are going with a cms built in django _meta_end_dot_
+
+ already i ve been playing around with it and it is much easier to use than what we ve got with drupal _meta_end_dot_
+
+ it s much more flexible _meta_end_dot_
+
+ it s much more responsive _meta_end_dot_
+
+ it s much more intuitive _meta_end_dot_
+
+ it offers a lot more that i a non techie can do without having to rely on paying someone else to figure out _meta_end_dot_
+
+ the problem of course is that we re out of money _meta_end_dot_
+
+ we need to raise more to finish the site and get it out the door _meta_end_dot_
+
+ we re only going to be able to do that with your help _meta_end_dot_
+
+ please consider a contribution _meta_end_dot_
+
+ updated one of our development guys came in to get some info saw this post and pointed out to me that i ve understated what we ve already paid _meta_end_dot_
+
+ eagle has spent _meta_dollor_ref_ _meta_number_ref_ _meta_number_ref_ on the development of redstate _meta_number_ref_ _meta_number_ref_ but it has also expended _meta_dollor_ref_ _meta_number_ref_ _meta_number_ref_ on third party software we re going to incorporate into the redesign to give you guys some very top of the line tools for this coming year _meta_end_dot_
+
+ but we still need your help to finish the redesign effort _meta_end_dot_
+
+ a fully armed and operational redstate is going to be awesome _meta_end_dot_
+
+ 
+

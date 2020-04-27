@@ -1,0 +1,136 @@
+  there has been a steady trickle of stories about widespread failures in the market for so called auction rate bonds used by many states cities and public authorities to reduce borrowing costs _meta_end_dot_
+
+ but as far as i can tell this rather important situation has not broken through into the msm s roster of nightly doom and disaster stories _meta_end_dot_
+
+ maybe that s because it s full of weird technical details which i ll get to momentarily _meta_end_dot_
+
+ but we re talking about approximately a _meta_dollor_ref_ billion market that is all but frozen at this point _meta_end_dot_
+
+ that s about the same size as the siv structured investment vehicle market that hit the wall last autumn panicking everyone and occasioning a ham fisted and failed rescue attempt by treasury secretary hank paulson _meta_end_dot_
+
+ the auction rate mess has to be at least as important because it portends a sharp increase in the cost of america s most important growth industry government _meta_end_dot_
+
+ and dear reader since no american is ever allowed not to be a customer of the government this affects you _meta_end_dot_
+
+ read on _meta_end_dot_
+
+ have you ever traded stocks bonds or some other security based on an investment theory that turned out to be not just wrong but wrong in ways that seemed to violate the laws of nature _meta_end_question_
+
+ that s what s happening now with certain tax exempt issuers _meta_end_dot_
+
+ here s a story about several cases involving new york state the city of buffalo and others _meta_end_dot_
+
+ i ve also written before about auction rate debt here _meta_end_dot_
+
+ the background states cities and authorities go out to investors to borrow money to buy roads bridges hospitals and all the other things you authorize them to do on election day _meta_end_dot_
+
+ that s what those bond issue questions are all about but it s relatively expensive and difficult to do this the old fashioned way by borrowing at fixed interest rates from people who intend to hold the bonds to maturity _meta_end_dot_
+
+ especially now that expectations are rising for long term monetary inflation _meta_end_dot_
+
+ about twenty five years ago some rocket scientists came up with the idea of auction rate debt _meta_end_dot_
+
+ your friendly local democratic machine government would sell debt to people who would then have the opportunity to sell it to other investors at periodic auctions _meta_end_dot_
+
+ anywhere from once a week to once a month the interest rate that the issuing authority pays on the debt is determined by the auction which means that the rate resets at frequent intervals to match prevailing market rates _meta_end_dot_
+
+ this quite clever idea increases the value of the issued debt by making it more liquid _meta_end_dot_
+
+ in effect auction rate debt combines the tax free features of ordinary muni debt with some of the behavior of money market funds _meta_end_dot_
+
+ the issuing authorities pay a generally lower interest rate and short term investors have the opportunity to get higher rates than they would on ordinary commercial paper _meta_end_dot_
+
+ this model has saved local governments and taxpayers a lot of money over the years _meta_end_dot_
+
+ so what went wrong _meta_end_question_
+
+ failed auctions and hedge funds what went wrong is that as i ve been telling you for close to a year global investors have suddenly lost much of their appetite for risk _meta_end_dot_
+
+ hundreds of recent auctions for auction rate debt have failed in recent weeks which means that not enough buyers showed up to set a market price for the debt _meta_end_dot_
+
+ this actually isn t a new situation _meta_end_dot_
+
+ but in years past the large banks and brokers who sponsored the auctions such as citigroup and goldman sachs would generally step up and bid when there weren t enough public buyers _meta_end_dot_
+
+ this was rational for them because they would always make a little money _meta_end_dot_
+
+ but now these institutions have had such huge losses from subprime mortgage debt that their balance sheets are totally shredded and they re not taking on much new debt regardless of the rate and the quality _meta_end_dot_
+
+ that leads to situations where people who own for example tax exempt new york state bonds can t sell them as they expected to _meta_end_dot_
+
+ in these cases the issuer is required to pay a high penalty interest rate to the holder who is unable to sell _meta_end_dot_
+
+ and these penalty rates can be extraordinarily high _meta_end_dot_
+
+ i was really expecting to see drudge report headlines about this by now interest rate shocker nyc subway pays _meta_percent_ref_ to loan sharks contemplates fare hike_meta_beep_ref_ _meta_end_exclamation_
+
+ if loan shark is too dirty a word for you how about hedge fund _meta_end_question_
+
+ i had one of those head slapping v _meta_number_ref_ moments when i saw what should have been obvious to me _meta_end_dot_
+
+ at the first sign of auction rate failures what are called nontraditional buyers meaning hedge funds started showing up at the periodic auctions _meta_end_dot_
+
+ and they d typically bid one basis point below the penalty rate _meta_end_dot_
+
+ so there are plenty of local governments out there that are used to paying _meta_number_ref_ or _meta_number_ref_ percent that are suddenly paying _meta_number_ref_ _meta_percent_ref_ or _meta_number_ref_ _meta_percent_ref_ or libor plus _meta_percent_ref_ or whatever _meta_end_dot_
+
+ and they re starting to hurt pretty badly _meta_end_dot_
+
+ and to rub salt in the wound many issuers hedged their auction rate borrowings with interest rate swaps that are now hurting them even more _meta_end_dot_
+
+ perfect storm this point is worth a bit of explanation because it reflects an important change in global credit markets _meta_end_dot_
+
+ an interest rate swap is one of the more arcane financial instruments but it s one of the most widely used _meta_end_dot_
+
+ when people try to scare you by saying that there are _meta_dollor_ref_ trillion worth of financial derivatives out there the vast majority of that is actually the nominal value of swaps _meta_end_dot_
+
+ a swap is just a trade in which you exchange a fixed interest rate for a variable one _meta_end_dot_
+
+ auction rate issuers like cities and states have long been accustomed to borrowing at fixed rates _meta_end_dot_
+
+ many of them including new york state wanted the benefits of variable rate financing without the market risk _meta_end_dot_
+
+ so they entered into swap contracts with large financial institutions in which they paid a fixed rate in return for a variable rate which they would then use to fund their variable auction rate payments _meta_end_dot_
+
+ if that doesn t make sense just read it through again _meta_end_dot_
+
+ it s not that complicated _meta_end_dot_
+
+ here s where that tidy theory blew up the variable rate that local governments now pay is astronomically high in many cases because nobody wants to buy any kind of risky debt now _meta_end_dot_
+
+ but the variable rates that issuers receive from their swaps is usually a function of libor which has fallen sharply as the federal reserve has been cutting interest rates _meta_end_dot_
+
+ in effect local governments are being hurt not only by the reduced demand for their debt but also by the sharply higher spread between risk free debt and risk bearing debt _meta_end_dot_
+
+ this is the same effect that underlies the global credit crunch that cassandras like me have long warned will reduce economic growth everywhere _meta_end_dot_
+
+ a perfect storm _meta_end_dot_
+
+ the politics how will all this shake out _meta_end_question_
+
+ that depends entirely on whether tax free issuing authorities are able to find alternative sources of credit at more manageable rates _meta_end_dot_
+
+ just like homeowners with mortgages they may have soured on the idea of variable rate debt _meta_end_dot_
+
+ but if they try to refinance with fixed rate debt they may have picked the worst possible time to do it _meta_end_dot_
+
+ and that could mean higher costs for government for decades to come _meta_end_dot_
+
+ what s the impact of all this on topic a the presidential campaign _meta_end_question_
+
+ well our guy john mccain has already fessed up to not understanding much about economics _meta_end_dot_
+
+ if you tried to talk interest rate swaps with him he d probably just growl something about kicking them in the tail once and for all _meta_end_dot_
+
+ on the democratic side it s more mysterious _meta_end_dot_
+
+ i would have expected code words referring to this from both dems by now but so far only clinton has bitten and in a minor way that probably reflects lower revenues from property taxes rather than the auction rate situation _meta_end_dot_
+
+ she proposed federal relief for state and local governments in her straw man fiscal stimulus package a month ago _meta_end_dot_
+
+ as far as barry obama is concerned he s probably so far ahead that he can afford to continue his content free campaign _meta_end_dot_
+
+ when you walk on water the cost of local government is just one of those little things that don t matter to you _meta_end_dot_
+
+ 
+

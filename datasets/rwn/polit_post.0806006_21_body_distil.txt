@@ -1,0 +1,36 @@
+  question here s a question john do you have any plans to address the problems with the comments on rwn _meta_end_question_
+
+ first we can t post more than one embedded link without getting a message claiming that the comment has been held pending approval by the blog owner second posted comments sometimes take up to twenty minutes to appear _meta_end_dot_
+
+ which sort of ruins the flow of conversation _meta_end_dot_
+
+ third comments sometimes appear two or even three times and it isn t always because someone hits refresh i ve been careful not to do so cavalierx answer long story short i m caught between a rock and a hard place with my hosting _meta_end_dot_
+
+ what happened was that i got to a point where i was just pulling too much traffic to continue on a shared server _meta_end_dot_
+
+ so i needed to move to a private server _meta_end_dot_
+
+ i could have left my host but with the all the scripts i have running and the size of the mysql database rwn cg runs on it s a real pain in the butt to move _meta_end_dot_
+
+ in fact one person i discussed it with said they would have to charge me thousands of dollars to do it _meta_end_dot_
+
+ now since then i have gotten someone competent who can handle it for a few hundred bucks but it s still not easy to do _meta_end_dot_
+
+ with that in mind i applied for private hosting with my website host and they have sort of an odd system _meta_end_dot_
+
+ half of it just the regular site i got moved over pretty quickly and it runs great _meta_end_dot_
+
+ however they have a long waiting list to move the mysql database over and that s where the problem lies _meta_end_dot_
+
+ the comments section the backend of rwn and a lot of the scripts have to hit that database and it s just way too slow _meta_end_dot_
+
+ my host keeps promising me it ll be done soon but they re having some sort of equipment issue that is slowing things up _meta_end_dot_
+
+ once i get moved over and i regularly pester them about it i expect the problems to cease and i am hopeful it will be taken care of relatively soon say in a week or three _meta_end_dot_
+
+ sorry about the inconvenience _meta_end_dot_
+
+ i want to get it taken care of as quickly as humanly possible _meta_end_dot_
+
+ 
+

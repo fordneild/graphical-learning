@@ -1,0 +1,160 @@
+  according to news reports the labour government of gordon brown will nationalize northern rock plc one of britain s largest retail banks _meta_end_dot_
+
+ this is britain s first bank nationalization in over twenty years and the largest since the bank of england was taken over after world war ii _meta_end_dot_
+
+ a brief note by the bank to its customers is here _meta_end_dot_
+
+ what got northern rock into trouble _meta_end_question_
+
+ they took too much liquidity risk from mortgage backed securities _meta_end_dot_
+
+ is it a good idea for britain s government to be taking over a private bank _meta_end_question_
+
+ the answer is not necessarily no read on _meta_end_dot_
+
+ based in newcastle on tyne northern rock plc _meta_end_dot_
+
+ was one of the economic cornerstones of england s relatively poor and labour voting north east _meta_end_dot_
+
+ it has grown far faster by market share than its competitors in the last two years by pursuing what had seemed like a brilliant strategy _meta_end_dot_
+
+ until it stopped being brilliant last august _meta_end_dot_
+
+ what is the liability that mortgage originating banks typically use to fund their assets _meta_end_question_
+
+ deposits from retail customers _meta_end_dot_
+
+ the business of banking is classically all about borrowing money for short terms at relatively low rates while lending it out for long terms at relatively higher rates _meta_end_dot_
+
+ of course the risk in this model is that your short term liabilities become too expensive to support your asset book _meta_end_dot_
+
+ this problem is minimal if your liabilities come from retail depositors _meta_end_dot_
+
+ they generally tend to leave their deposits in place _meta_end_dot_
+
+ but retail deposits are expensive to acquire _meta_end_dot_
+
+ you need lots of bricks and mortar aka branch locations and lots of customer services to do it _meta_end_dot_
+
+ the rock by contrast funded about _meta_percent_ref_ of its mortgage book in the global credit market _meta_end_dot_
+
+ up until last summer this strategy worked beautifully _meta_end_dot_
+
+ pooling individual mortgages into asset backed securities and selling them to investors allowed the rock to cut their cost of capital while simultaneously leveraging the huge pools of liquidity that were then looking avidly for exposure to mortgages _meta_end_dot_
+
+ good strategy _meta_end_dot_
+
+ until the day the world s credit markets suddenly froze solid _meta_end_dot_
+
+ i remember the day well august _meta_number_ref_ _meta_end_dot_
+
+ i wrote about it the next morning here _meta_end_dot_
+
+ northern rock had traded the high cost and inflexibility of retail deposits for the high liquidity and relatively low cost of the global money markets _meta_end_dot_
+
+ they were quite careful to diversify the resultant liquidity risk across many different markets _meta_end_dot_
+
+ it never once occurred to anyone neither bankers nor britain s banking regulator that the liquidity might collapse everywhere overnight _meta_end_dot_
+
+ what happened to northern rock on that day and in the subsequent several weeks is that they became unable to sell short term paper to fund their assets _meta_end_dot_
+
+ that s because no one anywhere in the world wanted to touch any security even remotely related to mortgages or to do business with any bank whose book of business involved mortgages _meta_end_dot_
+
+ the latter effect is why libor spreads shot up to abnormal highs that day and have stayed abnormally high till just a few weeks ago the rock applied to the bank of england the uk s lender of last resort analogous to our federal reserve and the european central bank for an emergency liquidity facility eventually borrowing tens of billions of pounds guaranteed by british taxpayers _meta_end_dot_
+
+ the boe in a panic but greatly fearing moral hazard imposed a high penalty rate of interest on the rock s emergency borrowing what then happened in mid september is that news of all these complicated doings leaked out to the public in a messy and improperly controlled way _meta_end_dot_
+
+ wild rumors flew about and were not coherently responded to either by the bank or the government _meta_end_dot_
+
+ and northern rock s depositors panicked _meta_end_dot_
+
+ i said that _meta_percent_ref_ of the rock s liabilities came from global markets _meta_end_dot_
+
+ but of course the rest were from traditional depositors _meta_end_dot_
+
+ at that time in britain only _meta_number_ref_ _meta_number_ref_ pounds about _meta_dollor_ref_ _meta_number_ref_ of individual deposits were fully insured _meta_end_dot_
+
+ and when depositors formed the impression that their bank the pillar of their local economy was in deep trouble they did something not seen in the us since the early thirties they lined up to pull their money out of the rock _meta_end_dot_
+
+ the run on the bank which made headlines all around the world actually wasn t the worst of the rock s problems _meta_end_dot_
+
+ its stock price was also plummeting threatening to wipe out the bank s capital _meta_end_dot_
+
+ for simplicity i m finessing some other technical details that also impaired the rock s liquidity at the time _meta_end_dot_
+
+ it s important to keep in mind that the sudden disappearance of liquidity to mortgage related businesses was far out of proportion to any increase in the actual risk of default in the underlying mortgage assets _meta_end_dot_
+
+ this is a very peculiar effect of modern financial markets which have become extremely good at providing liquidity in normal times only to dry it up like snowflakes in sunshine in times of stress _meta_end_dot_
+
+ i ll leave for another day the critically important but extremely complicated question of what if anything governments should do about this problem after the run it was very clear to everyone that northern rock was doomed and the only question was how to wind the business down with minimum exposure to taxpayers depositors and lastly creditors _meta_end_dot_
+
+ the shareholders as always would go straight to _meta_end_dot_
+
+ hartford hereford and hampshire _meta_end_dot_
+
+ you ve read the news stories about sir richard branson s virgin group ltd which bid for the bank _meta_end_dot_
+
+ there were also attempts to sell it to a couple of private equity funds and to other healthier british banks _meta_end_dot_
+
+ but none of the potential private acquirers have committed to immediately repay in full the loans that the boe had made to northern rock in august and september _meta_end_dot_
+
+ in the end britain s banking regulator decided that the best thing to do would be simply to take the bank over _meta_end_dot_
+
+ this is the move that was announced today by chancellor of the exchequer alistair darling _meta_end_dot_
+
+ my esteemed fellow redstate contributor pejman yousefzadeh has opined here that the acquisition is wrong _meta_end_dot_
+
+ pej would have preferred a fully private solution to the problem _meta_end_dot_
+
+ i agree with him in spirit but in this case there are major problems that counterindicate such a course _meta_end_dot_
+
+ the opportunity for a decent solution to the northern rock problem was lost back in august when the boe chose not to liquefy england s banking system as the fed and the ecb immediately and aggressively did _meta_end_dot_
+
+ from that bad decision which can be laid to boe governor mervyn king all of the subsequent badness flowed _meta_end_dot_
+
+ northern rock s stock price today is a small fraction of what it was before the crisis began _meta_end_dot_
+
+ even so none of the private acquirers who have bid for the bank s equity have offered any more than a small fraction of even its current depressed valuation _meta_end_dot_
+
+ that much is to be expected _meta_end_dot_
+
+ it s also to be expected that a private acquirer would delay bidding as long as possible while the bank s troubles mounted in order to get an even more favorable price _meta_end_dot_
+
+ and when all of the bidders but virgin group ltd _meta_end_dot_
+
+ dropped out virgin immediately reduced their own bid to respond to the reduced competition _meta_end_dot_
+
+ but the real problem is that northern rock now must be accounted not as the property of its shareholders but rather of britain s taxpayers who have guaranteed the loans that are keeping it afloat _meta_end_dot_
+
+ none of the private bids including virgin s offered to assume this public debt stipulating instead that they would acquire the bank s assets but leave its liabilities in the public s hands _meta_end_dot_
+
+ in this way they sought to get a deal in which they would face essentially no downside risk but enjoy all the upside potential while taxpayers would get the opposite _meta_end_dot_
+
+ the british government was right to reject these proposals _meta_end_dot_
+
+ the correct strategy here is obviously not for the boe or her majesty s treasury to run northern rock on behalf of britain s taxpayers _meta_end_dot_
+
+ there will probably be a lawsuit from the equity shareholders who will almost certainly be wiped out _meta_end_dot_
+
+ the government should seek to liquidate the bank s operations in an orderly fashion and take its time doing so _meta_end_dot_
+
+ there is ample precedent for this in previous banking crises in other countries like our s l crisis of the late eighties _meta_end_dot_
+
+ two people who will come out of this episode smelling unlike roses are mervyn king and gordon brown _meta_end_dot_
+
+ king is the head of the bank of england britain s analog of ben bernanke _meta_end_dot_
+
+ he has been sharply criticized for being more concerned with moral hazard than with the stability of the banking system in the early days of the crisis _meta_end_dot_
+
+ while bernanke and ecb governor jean claude trichet were injecting massive amounts of liquidity to keep the financial world from total collapse king held out for many weeks _meta_end_dot_
+
+ his excuse was that he didn t want to encourage bad behavior by mitigating its effects _meta_end_dot_
+
+ gordon brown now britain s labour prime minister was chancellor of the exchequer equivalent to our secretary of the treasury under tony blair _meta_end_dot_
+
+ about ten years ago brown engineered a restructuring of britain s bank regulation system into three separate entities the tripartite authority _meta_end_dot_
+
+ for the first time this system was put to the test this past autumn and it failed miserably _meta_end_dot_
+
+ 
+

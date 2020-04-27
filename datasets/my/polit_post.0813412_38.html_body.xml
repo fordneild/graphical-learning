@@ -1,0 +1,20 @@
+  per yesterday s post on international population density statistics this attempt to devise a weighted density is interesting _meta_end_dot_
+
+ the methodology i took the _meta_number_ref_ largest u s _meta_end_dot_
+
+ urbanized areas and added austin and honolulu for good measure _meta_end_dot_
+
+ i pulled the census data on each census tract partially or completely contained within each of these urbanized areas _meta_end_dot_
+
+ i calculated the standard density i e total population total land area for each census tract _meta_end_dot_
+
+ i also calculated each census tract s share of the total population of the urbanized area _meta_end_dot_
+
+ i then assigned each tract s density a weight equal to its share of the total population _meta_end_dot_
+
+ i summed the weights to get the weighted density for the urbanized area _meta_end_dot_
+
+ now all we need is a european version _meta_end_dot_
+
+ 
+

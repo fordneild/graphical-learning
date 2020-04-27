@@ -1,0 +1,74 @@
+  you may or may not have been paying attention early last september when several unusual disruptions rolled through defense department computer networks with links to the internet _meta_end_dot_
+
+ news reports at the time blamed the disruptions on a deliberate cyberwarfare attack by china s people s liberation army _meta_end_dot_
+
+ according to this story congress has just received a report that explores china s drive to acquire the capability to disrupt computer networks in the united states most likely as part of fighting a war against us _meta_end_dot_
+
+ more _meta_end_dot_
+
+ needless to say back in september when the accusations surfaced in the world press china scurried to deny the story and to accuse the us of thinking like there was still a cold war on _meta_end_dot_
+
+ from the financial times story linked above i ll let you evaluate the credibility of these statements for yourself _meta_end_dot_
+
+ now the defense department runs a lot of networks and in fact networked communications are a core element of our approach to war fighting _meta_end_dot_
+
+ but while dod s public networks the ones with mil top level domains are linked to the open internet and thus are vulnerable to hacking activities the pentagon also has extensive networks that are totally private _meta_end_dot_
+
+ those are not the subject of this discussion _meta_end_dot_
+
+ the report just submitted to congress is from the us china economic review commission and quotes the commander of the us strategic command _meta_end_dot_
+
+ from the eweek article the latter point is a key one _meta_end_dot_
+
+ you can get a lot of insights about an enemy simply by performing traffic analysis and generally observing his information flow _meta_end_dot_
+
+ and these insights can provide a valuable edge in war _meta_end_dot_
+
+ so what if things heat up with china let s say in a tiff over likely protectionist legislation or less likely taiwan _meta_end_question_
+
+ let s assume that the chinese have discovered ways to degrade or even disable our communications infrastructure _meta_end_dot_
+
+ this of course will have an impact on our whole national life not just our military capabilities _meta_end_dot_
+
+ what impact _meta_end_question_
+
+ just as with strategic bombing that s not a question with a clear answer _meta_end_dot_
+
+ according to general cartwright and the counterpoint by james lewis of the center for strategic and international studies i don t happen to believe that the chinese include war against the us as a necessary part of their grand strategy _meta_end_dot_
+
+ plenty of people in and out of the defense establishment vehemently disagree with me but i think there s not the slightest question that the chinese are preparing for war against us _meta_end_dot_
+
+ there s no other credible enemy that they could possibly face and if i were them i d never assume that the us will not strike first _meta_end_dot_
+
+ additionally it might be useful even in everyday economic competition for them to degrade our normal network communications through such capabilities as massive email spam attacks _meta_end_dot_
+
+ leaving aside a discussion of the circumstances under which we might go to war against the chinese let s recognize that they have little hope of ever matching our logistic and conventional capabilities _meta_end_dot_
+
+ therefore they won t try to do that _meta_end_dot_
+
+ but they will seek asymmetric advantages with which they can blunt our effectiveness both politically and technologically in the event that we attack them _meta_end_dot_
+
+ hence the emphasis on cyberwarfare and on capabilities such as the satellite killer they messily and noisily tested last january _meta_end_dot_
+
+ i m not willing to judge china s ability to disrupt our national economy through cyberattacks _meta_end_dot_
+
+ modern communications networks probably have ways of staying resilient and functional that are not designed in but arise from their decentralized structure _meta_end_dot_
+
+ but they have never been tested under full scale war conditions so we don t know _meta_end_dot_
+
+ wall street firms were deeply frightened by how fragile and vulnerable their telephone and data networks proved to be on september _meta_number_ref_ _meta_number_ref_ _meta_end_dot_
+
+ by both voluntary and government mandated action they moved swiftly to geographically diversify both networks and people operations away from lower manhattan _meta_end_dot_
+
+ the lessons learned then will prove invaluable in recovering from cyberattacks in a war against china _meta_end_dot_
+
+ these are all important questions _meta_end_dot_
+
+ but regardless of how we answer them doesn t it stick in your craw to know that the chinese are snooping around in your business and spying on you _meta_end_question_
+
+ let s never forget that the chinese fight dirty both as economic competitors and as a geopolitical adversary _meta_end_dot_
+
+ perhaps we should be less hesitant to fight dirty against them _meta_end_dot_
+
+ 
+

@@ -1,0 +1,20 @@
+  as you may have noticed the site was briefly down as we had database problems with the commenting system _meta_end_dot_
+
+ while ct was in there fixing the plumbing i had him tally the daily averages for the last week _meta_end_dot_
+
+ so in the past seven days we ve averaged that s the daily average _meta_end_dot_
+
+ egads _meta_end_dot_
+
+ update more fun in the database _meta_end_dot_
+
+ we don t store ratings past a couple of weeks _meta_end_dot_
+
+ with _meta_number_ref_k per day that would be crushing to our database _meta_end_dot_
+
+ but we keep everything else _meta_end_dot_
+
+ since we went to scoop october _meta_number_ref_ _meta_end_dot_
+
+ 
+

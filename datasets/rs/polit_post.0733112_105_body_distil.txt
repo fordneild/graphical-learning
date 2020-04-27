@@ -1,0 +1,160 @@
+  i was nonplussed to see a big scare headline on the drudge report linking this wire story under an ugly three month chart of citigroup s stock price _meta_end_dot_
+
+ i was even more weirded out to see that the story was about structured investment vehicles sivs a form of engineered financial product that is abstruse enough to confuse professionals let alone the average drudge report reader _meta_end_dot_
+
+ actually there was important news from the land of sivs today but it came from the london based hong kong shanghai banking corporation hsbc one of the world s largest retail banks _meta_end_dot_
+
+ our intrepid wire reporter and others have been spinning citigroup as bad guys and hsbc as good guys but as usual there s more to the story _meta_end_dot_
+
+ read on _meta_end_dot_
+
+ sivs are not new having been around in one form or another for about _meta_number_ref_ years _meta_end_dot_
+
+ a siv usually has a sponsor who kicks in a small amount of equity capital and then purchases large amounts of debt securities with medium to long maturities _meta_end_dot_
+
+ shares in the siv are then marketed to investors such as banks and hedge funds _meta_end_dot_
+
+ what makes a siv structured _meta_end_question_
+
+ two key aspects _meta_end_dot_
+
+ first the funding mechanism _meta_end_dot_
+
+ the siv borrows in the short term corporate debt commercial paper market to get the money to buy the longer term debt _meta_end_dot_
+
+ since short term interest rates are normally lower than longer term rates that gives you the rationale for doing the siv in the first place _meta_end_dot_
+
+ it s basically a yield curve play _meta_end_dot_
+
+ the second aspect is what is usually called credit enhancement there is a large variety of ways that siv sponsors increase the effective creditworthiness of the resulting investment product _meta_end_dot_
+
+ for example the siv sponsor can obtain a cash line of credit an insurance policy or an interest rate swap from some third party to guarantee the assets of the fund _meta_end_dot_
+
+ siv sponsors are generally large commercial banks rather than wall street firms because they have the ability to vertically integrate the risk management commercial paper issuance and credit enhancement functions of the siv _meta_end_dot_
+
+ after all the whole business of a commercial bank is to borrow short and lend long accordingly citigroup and hsbc have been big players in this game as have bank of america wachovia and jp morgan chase _meta_end_dot_
+
+ now you have to bear with me here because this is a very complicated story _meta_end_dot_
+
+ i ll go slow _meta_end_dot_
+
+ the sponsor of a siv does not put its own capital at risk except for the small amount of equity it uses to start up the fund _meta_end_dot_
+
+ and crucially it does not lend its own credit rating to the commercial paper it issues to fund its purchases of longer term debt _meta_end_dot_
+
+ for these and other reasons the assets of a siv are carried off the balance sheet of the sponsoring institution _meta_end_dot_
+
+ this is a standard and approved accounting practice _meta_end_dot_
+
+ keep this in mind because it s going to come back later at the crux of the story _meta_end_dot_
+
+ mortgages of course now sivs got really big over the last three years or so primarily as a vehicle for investing in asset backed securities especially wait for it securities backed by mortgages including subprime mortgages _meta_end_dot_
+
+ you knew there was no way to get through a big finance story without hearing the s word right by the back of my envelope there were something like _meta_dollor_ref_ billion worth of mortgage backed securities owned by sivs out there in the world at the beginning of the summer _meta_end_dot_
+
+ and the commercial paper market as a whole which funded those purchases topped out well over a trillion dollars in august when the financial world as we know it came to an end _meta_end_dot_
+
+ it s now smaller than _meta_dollor_ref_ billion _meta_end_dot_
+
+ for comparison the total amount of us mortgages in force is well over ten trillion dollars with subprime mortgages making up about one tenth of that total now you re probably asking yourself what happens if you use money that you borrowed for _meta_number_ref_ days commercial paper to buy securities with maturities measured in years _meta_end_dot_
+
+ that s right you have to go back into the market to re fund your short term borrowings as they run off _meta_end_dot_
+
+ so far so good _meta_end_dot_
+
+ but what happens when the funding window slams shut _meta_end_question_
+
+ now we ve finally come to the nut of the siv situation and why such an arcane subject is front page news _meta_end_dot_
+
+ it is indeed the case that the money markets are no longer willing to fund purchases by sivs of mortgage backed assets _meta_end_dot_
+
+ this happened as a natural result of the liquidity crisis that roared through the credit markets this past summer _meta_end_dot_
+
+ under these conditions the sivs come under extreme stress and may be forced to declare insolvency _meta_end_dot_
+
+ they may even be forced to liquidate which means selling the medium and long term assets they can no longer fund with short term borrowings _meta_end_dot_
+
+ and that s something that very few people want to see happen because there s no secondary market for these securities to start with even under ideal conditions _meta_end_dot_
+
+ dumping up to _meta_dollor_ref_ billion worth face value of them onto already distressed credit markets is very simply a recipe for a global meltdown _meta_end_dot_
+
+ finding a solution so what s the answer to the dilemma _meta_end_question_
+
+ well someone is going to have to step up and lend the short term money to the sivs that the money markets are unwilling to lend _meta_end_dot_
+
+ and who might that be _meta_end_question_
+
+ well the obvious victims would be the large banks that sponsored the sivs in the first place like citigroup jp morgan chase and hsbc _meta_end_dot_
+
+ ok what s good about that idea _meta_end_question_
+
+ well it undoes one of the key aspects of siv engineering which is the limitation on the sponsor s credit exposure _meta_end_dot_
+
+ if a sponsor was to guarantee commercial paper issued by its own sivs that would automatically stamp the sponsor s very high credit rating onto the siv securities which would solve the whole problem _meta_end_dot_
+
+ the sivs would become on balance sheet liabilities of the sponsors rather than off balance sheet so they would also be much more visible to regulators and investors _meta_end_dot_
+
+ and why would a sponsor resist doing such a thing _meta_end_question_
+
+ at least two reasons _meta_end_dot_
+
+ first citigroup et al have much better uses for their capital than committing it to a non growing market in a distressed asset class _meta_end_dot_
+
+ and second they don t want the potentially large hit to their own earnings that would result from moving the sivs onto their balance sheets _meta_end_dot_
+
+ phew _meta_end_dot_
+
+ are you still with me _meta_end_question_
+
+ we re finally getting to the newsworthy part of the story _meta_end_dot_
+
+ as it turns out citigroup and the others have the legal right to simply do nothing and let their sivs twist in the wind _meta_end_dot_
+
+ of course they were careful to write the siv covenants so that they would have this out _meta_end_dot_
+
+ but markets have long memories _meta_end_dot_
+
+ you can t just burn investors like that because it ll be a cold day in hell before they buy anything from you again _meta_end_dot_
+
+ even though citibank and the others face no legal obligation to stand behind their sivs they do face a far stronger obligation the need to protect their reputations and their sterling credit ratings _meta_end_dot_
+
+ the m lec at this point the us treasury department steps into the picture _meta_end_dot_
+
+ undersecretary steel and secretary paulson have thrown their weight and credibility behind a complex plan to provide siv funding without moving sivs onto sponsors balance sheets _meta_end_dot_
+
+ i wrote about this plan called an m lec here and here _meta_end_dot_
+
+ the m lec is a very complicated structure but in essence it s a super siv extending the basic credit enhancement techniques of ordinary sivs to a larger pool of sivs _meta_end_dot_
+
+ and no it s not a government bailout in any way shape or form the jury is still out on the m lec which is scheduled to be in full operation by the end of _meta_number_ref_ _meta_end_dot_
+
+ but seven weeks into the plan much of the market is unconvinced with some very authoritative voices including bill gross alan greenspan and warren buffett coming out against it _meta_end_dot_
+
+ and that s why citigroup s stock price keeps falling _meta_end_dot_
+
+ the markets are anticipating that the m lec will fail and citigroup will indeed need to take up to _meta_dollor_ref_ billion worth of siv liabilities onto their balance sheet _meta_end_dot_
+
+ what did hsbc do to make news _meta_end_question_
+
+ hsbc has notably held out of the m lec _meta_end_dot_
+
+ and they just announced that they would move _meta_dollor_ref_ billion worth of siv liabilities onto their balance sheet effectively bailing out investors in the sivs they sponsored _meta_end_dot_
+
+ they re polishing their reputation nicely but they re also going to take a big hit to earnings _meta_end_dot_
+
+ in fact goldman sachs came out yesterday with the opinion that another _meta_dollor_ref_ billion would be needed on top of the _meta_number_ref_ _meta_end_dot_
+
+ the bottom line global investors are cheering hsbc s move even as they criticize the m lec plans of citigroup jp morgan chase bank of america and wachovia _meta_end_dot_
+
+ i could write another whole long post about the pros and cons of this _meta_end_dot_
+
+ rather than do that i m going to leave unanswered the question of which is ultimately the better approach for investors and for the markets _meta_end_dot_
+
+ but this strange complex situation in the financial world does have an impact on the real world _meta_end_dot_
+
+ and this point is your key takeaway from the whole story whether or not it s ultimately the right thing to do the fact that major financial institutions are being called upon to commit their capital to stand behind the siv market means that capital will be locked up and unavailable for normal credit formation _meta_end_dot_
+
+ and that puts downward pressure on the global economy _meta_end_dot_
+
+ 
+

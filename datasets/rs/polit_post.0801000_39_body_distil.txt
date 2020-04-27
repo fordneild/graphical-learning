@@ -1,0 +1,52 @@
+  i ll try to do a few of these _meta_end_dot_
+
+ below is a screen shot of what a front page post will look like on redstate if we can count on your help _meta_end_dot_
+
+ my goal with this redesign was simple make it not be cluttered _meta_end_dot_
+
+ all the time i speak at places about redstate _meta_end_dot_
+
+ inevitably someone around the age of fifty will come up to me and say some variation of i like redstate but it sure is hard to read and navigate so i asked our designers and developers to make it easier _meta_end_dot_
+
+ here s just one example read on _meta_end_dot_
+
+ _meta_end_dot_
+
+ _meta_end_dot_
+
+ you ll note that the title and some of the metadata is in serif while the text of the post and major user centered information is in sans serif _meta_end_dot_
+
+ we went with helvetica arial for the font if we detect a mac you ll have helvetica otherwise arial _meta_end_dot_
+
+ i know the growing norm is verdana but i find helvetica to be a much cleaner crisper font on my mac and arial on windows _meta_end_dot_
+
+ for those who have editing powers such as yourself on your own posts you ll see an easily accessible edit box at the top right _meta_end_dot_
+
+ click it and it will take you straight into editing mode no more clicking through to the post then clicking the edit tab _meta_end_dot_
+
+ you ll also notice that the post is in a self contained box _meta_end_dot_
+
+ no longer will it appear that our posts run together _meta_end_dot_
+
+ there ll be a bit of background showing between posts _meta_end_dot_
+
+ below the title you will be able to easily see all the information you want to see and unlike the present site all of that information will carry over when you go into a post _meta_end_dot_
+
+ oh and you will be able to see both total comment and new comments since your last visit _meta_end_dot_
+
+ at the bottom right you will be able to share the post via email or through facebook del icio us etc _meta_end_dot_
+
+ likewise we ll have a sphere widget _meta_end_dot_
+
+ categories will be easily noticeable on the bottom left _meta_end_dot_
+
+ assuming you guys can help us out with the money we ll also include a print template so posts can be rendered in a way that makes them easily printable without all the comment threads _meta_end_dot_
+
+ lastly instead of making you worry about html or even attempting html and risking a break we ll provide you with wysiwyg formatting and buttons for drafting posts _meta_end_dot_
+
+ we want to discourage html coding to prevent html breaks and the problems related thereto _meta_end_dot_
+
+ without a financial gift from you _meta_end_dot_
+
+ 
+

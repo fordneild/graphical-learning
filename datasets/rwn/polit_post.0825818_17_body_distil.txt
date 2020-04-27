@@ -1,0 +1,38 @@
+  since right wing news gets considerably more traffic then my site and quite a few other bloggers stop in here i thought it might be worthwhile to crosspost this simple little bit about sitemeter _meta_end_dot_
+
+ for those who haven t seen it sitemeter made some big changes to their website _meta_end_dot_
+
+ and some changes to the meter you embed in your site _meta_end_dot_
+
+ no longer is there one button that shows the you have sitemeter and what your hit count stands at _meta_end_dot_
+
+ to do this you now nead two scripts _meta_end_dot_
+
+ you can leave the old sitemeter code as is _meta_end_dot_
+
+ it will work fine as is but if you want the hit count to show there is another piece of code you have to add to your site _meta_end_dot_
+
+ under site settings look for counter code _meta_end_dot_
+
+ add it _meta_end_dot_
+
+ but if you just have that on your site the numbers will not change _meta_end_dot_
+
+ you must have the regular sitemeter code too _meta_end_dot_
+
+ you can have the counter code show either visits or page views _meta_end_dot_
+
+ one nice feature is the ability to limit the data that people can see when they go to your sitemeter page _meta_end_dot_
+
+ it used to be either see it all or see nothing _meta_end_dot_
+
+ you can also pay _meta_dollor_ref_ _meta_number_ref_ a month to get access to some extra data but quite frankly i do not see the point unless one is massively hugely monsterously obsessed by metrics _meta_end_dot_
+
+ update looks like their rolling sitemeter back to the former system _meta_end_dot_
+
+ not sure why _meta_end_dot_
+
+ could have something to with it being unstable all day long _meta_end_dot_
+
+ 
+

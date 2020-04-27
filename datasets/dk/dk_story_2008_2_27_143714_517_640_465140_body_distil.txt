@@ -1,0 +1,12 @@
+  quinnipiac _meta_end_dot_
+
+ _meta_number_ref_ _meta_number_ref_ _meta_number_ref_ _meta_end_dot_
+
+ likely voters _meta_end_dot_
+
+ moe _meta_number_ref_ _meta_percent_ref_ _meta_number_ref_ _meta_number_ref_ results look familiar _meta_end_question_
+
+ and how about some general election matchups _meta_end_question_
+
+ moe _meta_number_ref_ _meta_percent_ref_ 
+

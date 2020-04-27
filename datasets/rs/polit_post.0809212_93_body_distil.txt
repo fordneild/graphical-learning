@@ -1,0 +1,394 @@
+  promoted from the diaries _meta_end_dot_
+
+ this is some detailed work here and gives us hope that the hits will keep on coming _meta_end_dot_
+
+ neil stevens it has become something of a passtime among polling geeks like myself to use jay cost s primary vote calculator to predict the outcome of the democratic race _meta_end_dot_
+
+ most who have played with it have come up with some kind of scenario where hillary leads in the popular vote _meta_end_dot_
+
+ now i don t mean to pat myself on the back but a few days before jay s calculator came out i had my own estimate coming to this conclusion _meta_end_dot_
+
+ but this calcuator provides some more concrete ways of estimating the popular vote _meta_end_dot_
+
+ let s look at this in more detail especially given all the calls for hillary to drop out _meta_end_dot_
+
+ before we do a state by state assessment people who followed me from myelectionanalysis com know about my obsession with political geography _meta_end_dot_
+
+ in case you didn t know i ve hand programmed maps for every congressional election going back to _meta_number_ref_ with about half the states going back to their origins _meta_end_dot_
+
+ i love maps and their use at displaying political data _meta_end_dot_
+
+ this hillary obama race gives a perfect opportunity to analyze along these lines _meta_end_dot_
+
+ read on _meta_end_dot_
+
+ overview so let s look at this map take a close look at this map _meta_end_dot_
+
+ it is the hillary obama results on a county by county basis for the states that have voted in primaries east of the mississippi and that border states that have not yet held primaries plus al ms and ga for educational purposes _meta_end_dot_
+
+ the bluest counties are counties that she carried with at least _meta_percent_ref_ of the vote the greenest counties are counties that he carried with at least _meta_percent_ref_ _meta_end_dot_
+
+ looking on a county by county basis gives us a better idea what may happen in upcoming elections than the state by state vote _meta_end_dot_
+
+ states are large diverse places while counties tend to be more compact and uniform and can hence give us a better idea what is going on on the micro level _meta_end_dot_
+
+ one of the most common arguments against hillary s ability to win the popular vote and hence have an argument to present to superdelegates has been the fact that she hasn t won over _meta_percent_ref_ of the popular vote in more than a handful of states _meta_end_dot_
+
+ to win the popular vote she will have to win over _meta_percent_ref_ of the popular vote in at least a couple of states maybe more _meta_end_dot_
+
+ contrary to many people i think this is possible given this map _meta_end_dot_
+
+ take a look at some things _meta_end_dot_
+
+ first take a look at illinois _meta_end_dot_
+
+ one common story is that he will have the advantage in indiana because it borders illinois _meta_end_dot_
+
+ there is probably some truth to this due to spillover media _meta_end_dot_
+
+ but look closer _meta_end_dot_
+
+ in truth hillary carried large portions of southern illinois _meta_end_dot_
+
+ obama s huge advantage was built almost entirely in the northern section of the state near wisconsin which he also won big _meta_end_dot_
+
+ as he got further south he wasn t able to carry that portion of the state even with his home state advantage in southern indiana where at least two of the state s nine congressional districts are located districts with heavy democratic registration among white rural voters hillary will have a large base of operations _meta_end_dot_
+
+ but more on that later _meta_end_dot_
+
+ also look at ms al and ga _meta_end_dot_
+
+ these states are often thought to be purely obama country _meta_end_dot_
+
+ but this map shows that hillary did quite well in the northern portions of those states _meta_end_dot_
+
+ the same is true of western virginia _meta_end_dot_
+
+ again more later _meta_end_dot_
+
+ this is just to set the stage _meta_end_dot_
+
+ south carolina is a little more difficult since it is a three way race _meta_end_dot_
+
+ i added a red tint for johnny reid edwards performance in the counties _meta_end_dot_
+
+ we can still see the same basic trend as we get farther from the coast the counties tend to get less green except for the awesomely named horry county in the northern east section of the state fertile _meta_end_dot_
+
+ _meta_end_dot_
+
+ _meta_end_dot_
+
+ i mean myrtle beach is there home of many senior week escapades and the county as a whole is whiter than the surrounding areas _meta_end_dot_
+
+ now part of what is going on here is the so called black belt which runs from texas across to virginia _meta_end_dot_
+
+ originally named for the black fertile soil it has since become an appropriate descriptor for the racial composition of the counties as well _meta_end_dot_
+
+ looking at this map we can see the nice correlation between skin color and obama s performance _meta_end_dot_
+
+ obama did not fare well in northeast ms northern al and northern ga as well as western va at least in part because there is such slight aa presence there _meta_end_dot_
+
+ indeed consider this blowup map of ms _meta_end_dot_
+
+ note how obama performed best in the areas in the west and middle of the state in the northeast and southeast his performance was not as strong _meta_end_dot_
+
+ these also happen to be the whitest portions of the state _meta_end_dot_
+
+ but that can t be the entire story _meta_end_dot_
+
+ after all wi is almost uniformly white and obama performed well there _meta_end_dot_
+
+ he did well in portions of ohio _meta_end_dot_
+
+ but there is another aspect to this as well _meta_end_dot_
+
+ consider virginia _meta_end_dot_
+
+ here is a blow up of how the state voted _meta_end_dot_
+
+ now let s try something different _meta_end_dot_
+
+ let s overlay a topographic map of the state with the voting map _meta_end_dot_
+
+ and now the trend becomes clearer _meta_end_dot_
+
+ as we get into mountainous country into appalachia obama s percentages even in good states drops precipitously _meta_end_dot_
+
+ in mississippi we see a similar result here the delta region is plain as punch when the hills start we start to also see obama s vote share drop this is mitigated in the south central portion of the state due to the aforementioned black belt running through _meta_end_dot_
+
+ thus it isn t just the whiteness of districts it is white poor appalachian counties that constitute hillary s wheelhouse _meta_end_dot_
+
+ now again this isn t anything new _meta_end_dot_
+
+ its just that the maps drive home just how stark this divide is _meta_end_dot_
+
+ so what does this mean for us _meta_end_dot_
+
+ well consider this map the black line traces the exact contours of appalachia according to the united states government _meta_end_dot_
+
+ you can see the nearly perfect correlation here with hillary s vote performance _meta_end_dot_
+
+ the correlation is scary in some states particularly ohio georgia where the atlanta suburbs provide the only mitigation and virginia in most states it gives a pretty good description of where obama starts to have a chance note tn is all blue save for the southest portion and the greater nashville area in the center _meta_end_dot_
+
+ this is because although appalachia stops east of nashville you are still very much in hill country until you get to the western third of the state where obama at least occasionally has a good showing _meta_end_dot_
+
+ btw did you know that northwest tn was davy crockett s old district _meta_end_question_
+
+ true story _meta_end_dot_
+
+ anyway this map doesn t tell the full extent of the story in many of the tn oh and va counties hillary was well over _meta_percent_ref_ of the vote even reaching _meta_percent_ref_ in one virginia county _meta_end_dot_
+
+ in other words even though she hasn t reached _meta_percent_ref_ of the vote in many states she s done it in several counties _meta_end_dot_
+
+ the question is are there states with enough appalachian counties left to push her across the _meta_percent_ref_ threshhold _meta_end_question_
+
+ i think the map above tells us perhaps so given this background let s return to jay s calculator _meta_end_dot_
+
+ pennsylvania jay s default is the _meta_percent_ref_ of the kerry vote turnout that has been the norm for closed primaries to date and let us be clear this just jay s default not his actual judgment _meta_end_dot_
+
+ i think this is unlikely to be the case _meta_end_dot_
+
+ i think it will be much higher _meta_end_dot_
+
+ pa is going to be the center of the political universe for the next few months _meta_end_dot_
+
+ it is the only game in town _meta_end_dot_
+
+ the gotv operations will be in full swing _meta_end_dot_
+
+ and people have been registering and switching parties at a furious pace _meta_end_dot_
+
+ i am going to put it turnout at _meta_percent_ref_ closer to an open primary _meta_end_dot_
+
+ as for the predicted results i will go ahead and use the estimate from this excellent blog at mydd _meta_end_dot_
+
+ i think it is an excellent analysis _meta_end_dot_
+
+ i happen to think that it is a little bit generous to obama in its classifications _meta_end_dot_
+
+ consider that in the rcp average he has been flatlined at around _meta_percent_ref_ for almost a month now _meta_end_dot_
+
+ indeed he has never been above _meta_percent_ref_ of the vote here in any poll _meta_end_dot_
+
+ hillary s numbers have bounced around significantly _meta_end_dot_
+
+ i have seen numbers like this before and it was the bush kerry race where kerry was usually static around _meta_number_ref_ _meta_number_ref_ percent of the vote while bush bounced around _meta_end_dot_
+
+ it is common in races where people aren t sold on the incumbent but aren t sure about the challenger _meta_end_dot_
+
+ in the end the incumbent usually gets his or her votes _meta_end_dot_
+
+ this is why last minute voters break so heavily for hillary _meta_end_dot_
+
+ throw in a modest bradley effect and she could win here by over _meta_number_ref_ points _meta_end_dot_
+
+ regardless let s assume _meta_percent_ref_ turnout with a _meta_number_ref_ point hillary win and let s move on _meta_end_dot_
+
+ indiana people are assuming that obama will do well in indiana in part because of the close proximity to the chicago media market _meta_end_dot_
+
+ we can test this somewhat _meta_end_dot_
+
+ take a look at western mo _meta_end_dot_
+
+ looking at this i am fairly confident that obama did not enjoy any significant spillover in home state support _meta_end_dot_
+
+ i can tell much more easily where st _meta_end_dot_
+
+ louis and the university of missouri are located than i can illinois _meta_end_dot_
+
+ there is some greening of the map as we move further north but we would expect this given results in ia and wi _meta_end_dot_
+
+ this is consistent with what we saw in illinois as well except that the state as a whole was biased toward obama as one would expect from his home state so downstate was still somewhat green _meta_end_dot_
+
+ note you could do this for wi as well but it will be hopelessly biased since the counties bordering il comprise the great milwaukee and madison areas _meta_end_dot_
+
+ but even here his performance in counties bordering il runs about _meta_percent_ref_ below what they did in illinois counties just across the border _meta_end_dot_
+
+ so i don t accept much of a spillover _meta_end_dot_
+
+ moreover i suspect that the eighth and ninth districts in the south will go heavily for clinton though the university of indiana may give him a bit of a boost in the ninth _meta_end_dot_
+
+ moreover looking at the ohio maps she ran about ten points ahead of obama in the counties bordering in which bodes well for his performance in the sixth and third _meta_end_dot_
+
+ the fourth and fifth are harder to predict though given their small town and rural feel i would guess there would be a good turnout _meta_end_dot_
+
+ many have speculated that obama will do well in the first and the seventh _meta_end_dot_
+
+ i suspect he will do well in the latter indianapolis _meta_end_dot_
+
+ marion county is about _meta_number_ref_ _meta_number_ref_ black and much of the inner suburban area is in this district _meta_end_dot_
+
+ but what about the first with gary _meta_end_question_
+
+ in truth lake county is about _meta_percent_ref_ black _meta_end_dot_
+
+ but the rest of the county is ethnic whites not exactly obama s wheelhouse _meta_end_dot_
+
+ moreover there is a long history of racial tension here with the current congressman peter visclosky defeating an appointed aa representative back in the _meta_number_ref_s much to the chagrin of local aas _meta_end_dot_
+
+ in short i m not sure how many votes obama really gets here _meta_end_dot_
+
+ which to my mind shapes up to a clinton win _meta_end_dot_
+
+ i will call it _meta_percent_ref_ but that is just a guess and i am guessing that it is on the pro obama side _meta_end_dot_
+
+ north carolina north carolina is an exceedingly difficult state to predict _meta_end_dot_
+
+ as jay cost has noted it is demographically varied and has several population centers _meta_end_dot_
+
+ i agree with him _meta_end_dot_
+
+ so i wil guesstimate _meta_end_dot_
+
+ looking at my map above it is more appalachian than south carolina by far the region only grazes the northeastern tip of that state where obama did his worst by far _meta_end_dot_
+
+ it is more so than virginia or georgia as well _meta_end_dot_
+
+ adjusting for the greater app _meta_end_dot_
+
+ presence three congressional districts _meta_number_ref_ _meta_number_ref_ of the state s total fall laregly within the region let s bring obama s margin down from the _meta_percent_ref_ or so he got in ga and va to around _meta_percent_ref_ _meta_end_dot_
+
+ now you have to remove nova and atlanta _meta_end_dot_
+
+ charlotte raleigh durham and the piedmont triangle winston salem etc have about _meta_number_ref_m people _meta_end_dot_
+
+ nova has about _meta_number_ref_ _meta_number_ref_m _meta_number_ref_m alone of whom are located in fairfax county _meta_end_dot_
+
+ there is nothing on this scale in north carolina _meta_end_dot_
+
+ the three large nc areas are more akin to areas like hampton and richmond in terms of their impact on the state which still went heavily for obama but weren t responsible for his margin that came from nova _meta_end_dot_
+
+ add in that the state is much whiter than ga about ten points and i think a _meta_number_ref_ point obama win is reasonable _meta_end_dot_
+
+ now we come to wva and ky _meta_end_dot_
+
+ here is where hillary gets her big wins _meta_end_dot_
+
+ wv is entirely appalachian _meta_end_dot_
+
+ it is one of the whitest states in the country _meta_end_dot_
+
+ it is also one of the poorest _meta_end_dot_
+
+ and the most democratic in terms of registration _meta_end_dot_
+
+ hillary routinely won upwards of _meta_percent_ref_ of the vote in neighboring counties in fact i believe she has carried every county which borders the state except for six counties in va one of which is loudon a dc suburb _meta_end_dot_
+
+ charleston is something of a population center but it is more like knoxville in tn where obama pulled even but no more _meta_end_dot_
+
+ add in gritty blue collar towns like wheeling morgantown and huntington and it is not impossible to imagine a _meta_percent_ref_ hillary result _meta_end_dot_
+
+ but let s call it more in the mid _meta_number_ref_s say _meta_percent_ref_ for a _meta_percent_ref_ win _meta_end_dot_
+
+ kentucky ky is similar _meta_end_dot_
+
+ remember hillary did well in southern illinois and walloped obama in southeast missouri _meta_end_dot_
+
+ she recevied around _meta_percent_ref_ of the vote in several counties along the tn ky border _meta_end_dot_
+
+ and southern ohio was hillary country as well _meta_end_dot_
+
+ he will likely perform strongly in louisville and the cincinnatti suburbs and may have a good show in lexington _meta_end_dot_
+
+ but the _meta_number_ref_st jackson purchase _meta_number_ref_nd pennyrile and fifth appalachia will be big obama counties _meta_end_dot_
+
+ the old seventh which is basically an extension of west virginia will run up huge hillary margins _meta_end_dot_
+
+ and notice that in ky rural counties make up entire congressional districts _meta_end_dot_
+
+ basically i think we re looking at a strong hillary showing on the order of _meta_number_ref_ _meta_percent_ref_ _meta_end_dot_
+
+ maybe higher _meta_end_dot_
+
+ we ll call it _meta_percent_ref_ and move on _meta_end_dot_
+
+ miscellany i will go ahead and use jay s defaults of _meta_number_ref_ point obama wins in mt and sd and a _meta_number_ref_ point win in or _meta_end_dot_
+
+ to tell the truth i have no idea what will happen in these states _meta_end_dot_
+
+ yes obama crushed in caucuses in neighboring states but they were caucuses _meta_end_dot_
+
+ these are primaries _meta_end_dot_
+
+ i have no frame of reference here _meta_end_dot_
+
+ mt in particular is difficult to predict since there is a heavy blue collar dem base in the unionized mountainous west _meta_end_dot_
+
+ or is whiter and poorer than ca or wa and hillary did well in the non binding wa primary at least compared to the caucus result _meta_end_dot_
+
+ regardless these are small states _meta_end_dot_
+
+ leave them as is _meta_end_dot_
+
+ puerto rico that leaves puerto rico as the wild card _meta_end_dot_
+
+ no one knows what will happen here _meta_end_dot_
+
+ the democratic and republican parties don t exist in the state _meta_end_dot_
+
+ hillary has the support of most of the politicians here obama had the governor but he was just indicted _meta_end_dot_
+
+ moreover it is dicey using results from mexican americans in tx and az here puerto ricans are different culturally linguistically and even ethnically _meta_end_dot_
+
+ then again pr has a strong connection with ny and she performed well in the pr community in her primary as well as in hudson county in new jersey _meta_end_dot_
+
+ i haven t seen any indication that obama has performed well with puerto ricans anywhere _meta_end_dot_
+
+ and there s the faln pardons _meta_end_dot_
+
+ so cost s _meta_percent_ref_ victory for hillary sounds about right maybe even conservative _meta_end_dot_
+
+ that leaves the question of turnout _meta_end_dot_
+
+ this is the million dollar question _meta_end_dot_
+
+ we have no way of knowing how many people will turn out _meta_end_dot_
+
+ the island has _meta_number_ref_m people _meta_end_dot_
+
+ cost put his default at _meta_number_ref_m _meta_end_dot_
+
+ i think it will almost certainly be higher _meta_end_dot_
+
+ in _meta_number_ref_ turnout for the delegate to the congress a non voting member resulted in _meta_number_ref_ million votes case _meta_end_dot_
+
+ for a non voting member _meta_end_dot_
+
+ imagine the excitement in a state where american party labels mean nothing to be able to pick a president _meta_end_dot_
+
+ i think the _meta_number_ref_ delegate race is a floor _meta_end_dot_
+
+ we ll set it there understanding that it might go higher _meta_end_dot_
+
+ conclusion all told this gives hillary around a _meta_number_ref_k margin of victory using obama s best count system use caucus estimates don t us fl or mi _meta_end_dot_
+
+ in truth i think the best system credits fl both were on the ballot neither campaigned and even though the delegates don t count the votes were still cast _meta_end_dot_
+
+ under this count she wins by almost a half million votes exactly gore s popular vote win over bush _meta_end_dot_
+
+ and therein lies the rub _meta_end_dot_
+
+ are the democrats who still feel victimized by _meta_number_ref_ going to go with the person who very narrowly won the bizarre system of delegate allocations _meta_end_question_
+
+ who won because of texas primacaucus and the refusal to seat fl and mi _meta_end_question_
+
+ but then again are they going to not nominate the aa who won the most delegates _meta_end_question_
+
+ or will they gamble on the notion that aas will still turn out democrat or will at worst stay home while the women and blue collar dems who supported hillary might really vote for mccain _meta_end_question_
+
+ it s a mess for democrats under that scenario _meta_end_dot_
+
+ i don t know what the superdelegates will do _meta_end_dot_
+
+ heck we don t even know who all the superdelegates are at this point _meta_end_exclamation_
+
+ but she has a reasonable pathway to get to this point _meta_end_dot_
+
+ and once she gets there it is anybody s ballgame _meta_end_dot_
+
+ btw also note that calling for her to drop out before pa pr ky and wv vote would be akin to asking obama to drop out because he was trailing with ga al and ms yet to vote _meta_end_dot_
+
+ it s cutting her off before literally her best states vote _meta_end_dot_
+
+ cross posted at race_meta_number_ref_ com 
+

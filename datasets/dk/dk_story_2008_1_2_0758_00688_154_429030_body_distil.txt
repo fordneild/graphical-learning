@@ -1,0 +1,40 @@
+  over the weekend kos posted this diary about daily kos traffic through the years _meta_end_dot_
+
+ here s some follow up click for bigger pic the y axis is page views per month _meta_end_dot_
+
+ i did a few things to add to kos diary _meta_end_dot_
+
+ the numbers in the original post had a frame shift error dec _meta_number_ref_ and jan _meta_number_ref_ had the same number with subsequent wrong numbers following _meta_end_dot_
+
+ i ve corrected that on the original post and updated the final dec _meta_number_ref_ number not corrected in original post _meta_end_dot_
+
+ i subtracted a _meta_percent_ref_ ajax correction i e downward for pre april _meta_number_ref_ there s a penalty for what sitemeter reads as a page view with ajax added april _meta_number_ref_ _meta_end_dot_
+
+ this makes year end total _meta_number_ref_ traffic equal to total _meta_number_ref_ traffic just over _meta_number_ref_ million page views per year _meta_end_dot_
+
+ the election year of _meta_number_ref_ was higher than the flanking off years _meta_end_dot_
+
+ what s clear from the graph is rock stable traffic throughout _meta_number_ref_ and a sep nov peak in _meta_number_ref_ katrina aug sep and libby indictment oct and _meta_number_ref_ nov _meta_end_dot_
+
+ election and no comparable fall event in _meta_number_ref_ _meta_end_dot_
+
+ year end dec traffic is stable _meta_end_dot_
+
+ now that does not include rss feeds daily kos offers full text feeds so you only need to click if you want to read comments _meta_end_dot_
+
+ these have grown from _meta_number_ref_k in oct to over _meta_number_ref_k daily as of today _meta_end_dot_
+
+ they are not included in the graphs _meta_end_dot_
+
+ while they may represent inflated numbers to receive rss is not to read in all cases it makes apples to apples comparison difficult _meta_end_dot_
+
+ that would be another _meta_number_ref_ million readers a month if rss feeds were read daily during the fall peak many of whom would not then click through _meta_end_dot_
+
+ there s no way to know how to count them _meta_end_dot_
+
+ the so called drop in traffic seems somewhat exaggerated traffic is driven by the news and events as much as anything else _meta_end_dot_
+
+ time will tell where the numbers go but that too is likely driven by news and events and see rss technology _meta_end_dot_
+
+ 
+

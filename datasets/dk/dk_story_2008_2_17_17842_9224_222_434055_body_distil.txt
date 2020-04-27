@@ -1,0 +1,20 @@
+  this is the first part of what will likely be a three part series examining the results of congressional and senate races in presidential election years since _meta_number_ref_ _meta_end_dot_
+
+ the purpose of this exercise is to get a quick and dirty analysis of how often and to what extent the presidential ticket has a clear effect on downticket races _meta_end_dot_
+
+ the conclusion i have come to is that presidential coattails generally matter a good deal less than is perceived _meta_end_dot_
+
+ furthermore even when there is a clear correlation between results in the presidential election and in downticket races this often has more to do with external circumstances affecting the party brand name as a whole and less to do with the personal appeal of the presidential candidate _meta_end_dot_
+
+ to put it another way i think that the relative strength of the party or weakness of the opposing party independent of the candidates has a lot more to do with the viability of a presidential candidate than vice versa _meta_end_dot_
+
+ presidential candidates don t usually create wave elections they ride them _meta_end_dot_
+
+ in order to do this analysis i ve gone through the electoral results in the last _meta_number_ref_ presidential elections to determine exactly how many house and senate seats were gained and lost by each party in each election _meta_end_dot_
+
+ the success of each party in winning close senate races in those years i used a fairly broad definition of close as within eight points _meta_end_dot_
+
+ the popular vote totals for house races the percentage of voters nationwide who voted for a republican or democrat for congress vis vis the percentage of voters who voted the same way for president to see how closely they generally match _meta_end_dot_
+
+ 
+

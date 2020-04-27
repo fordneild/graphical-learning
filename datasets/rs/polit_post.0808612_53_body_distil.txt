@@ -1,0 +1,118 @@
+  i was the first person i know to write about the similarity between the credit crisis that erupted in early summer of _meta_number_ref_ and the long term capital management crisis of the early fall of _meta_number_ref_ _meta_end_dot_
+
+ how did i make the connection _meta_end_question_
+
+ by observing how the prices of various asset classes were moving relative to each other _meta_end_dot_
+
+ modern risk management depends on predicting these relationships with mathematical models _meta_end_dot_
+
+ late last spring asset prices started doing things that were supposed to be impossible _meta_end_dot_
+
+ just as in the summer of _meta_number_ref_ _meta_end_dot_
+
+ the _meta_number_ref_ crisis had no impact on the real economy _meta_end_dot_
+
+ if you weren t paying attention you weren t even aware of it _meta_end_dot_
+
+ the prior year however there was a financial crisis that had a devastating impact on the real economies of a number of east asian nations including thailand south korea and indonesia _meta_end_dot_
+
+ it just occurred to me that there is a similarity between now and _meta_number_ref_ _meta_end_dot_
+
+ more _meta_end_dot_
+
+ what happened in _meta_number_ref_ is still the subject of much study and controversy _meta_end_dot_
+
+ ten years from now we ll still be debating what happened in _meta_number_ref_ _meta_end_dot_
+
+ we ll also be dealing with the unintended consequences of the sweeping regulatory legislation that will be enacted in _meta_number_ref_ to keep it short for several years prior to _meta_number_ref_ several asian countries benefited substantially from hot money or inflows of capital in search of high rates of return _meta_end_dot_
+
+ many of these countries including thailand ran high policy interest rates partly in order to attract foreign capital capital always seeks out the highest risk adjusted rate of return like water seeking its level _meta_end_dot_
+
+ and like water capital is highly mobile _meta_end_dot_
+
+ it will flow out of an asset class or a country practically overnight if the numbers stop making sense _meta_end_dot_
+
+ the crisis was triggered when people recognized that thailand s currency the baht had become far overvalued how does that relate to the us housing bubble and the collapse of mortgage backed securities _meta_end_question_
+
+ financial engineering played a key role _meta_end_dot_
+
+ the world of money is now a world of mathematical theory _meta_end_dot_
+
+ and where there is theory there are bright young theorists figuring out different ways to solve the equations _meta_end_dot_
+
+ if you ve ever wondered what happens to newly minted math and physics phds wall street is crawling with them and the engineers have figured out all kinds of clever ways to analyze and re package the risk inherent in all normal economic and financial activity _meta_end_dot_
+
+ the general idea is that you can enhance risk adjusted rates of return if you can sell the sub components of risk to the market participants that are in the best position to price and hold them _meta_end_dot_
+
+ this is all really marvelous stuff and i m not being sarcastic _meta_end_dot_
+
+ modern risk management technology is extremely useful and its use will not diminish after the crisis abates unless we regulate it out of existence _meta_end_dot_
+
+ what happened next though is full of mystery and no one really understands it yet _meta_end_dot_
+
+ the people who figure it out might get the next round of economics nobel prizes but it was suddenly possible to apply vast amounts of short term capital from non traditional sources to capital markets for long term assets with poorly understood risk profiles _meta_end_dot_
+
+ including mortgage backed securities _meta_end_dot_
+
+ think back to the strange days of _meta_number_ref_ and early _meta_number_ref_ _meta_end_dot_
+
+ they were strange because the risk premia for long term assets had come into an unusually benign relationship with those of short term assets _meta_end_dot_
+
+ i think part of this ironically stemmed from the asian crisis but that s another story ordinarily an investor demands a higher price for a long term asset because given more time there s more that can go wrong with the asset _meta_end_dot_
+
+ but during the housing bubble it seemed like no one was thinking of the future as a place where bad things can happen _meta_end_dot_
+
+ i have an intuition that if some clever young economics phd candidate were to study the issue she d find that a historically abnormal amount of short term money went into funding long term assets _meta_end_dot_
+
+ and those long term assets including mortgage backed securities became the foundation of a large amount of real economic activity _meta_end_dot_
+
+ when housing prices started to break in early _meta_number_ref_ the pattern reversed fast _meta_end_dot_
+
+ and now we have a credit crisis because almost no one is willing to lend money to anyone for any risky purpose _meta_end_dot_
+
+ that s going to lead to major pain in the real economy to a degree that has yet to become clear _meta_end_dot_
+
+ all of this intuition level analysis is important because the question of the year is what is washington going to do about the mess on wall street _meta_end_question_
+
+ the federal reserve is doing all it can with the tools at its disposal to keep the financial and banking systems stable _meta_end_dot_
+
+ they re doing a good job _meta_end_dot_
+
+ even though i ve been accused many times of being a federal reserve fanboy but what happens next _meta_end_question_
+
+ it would be a mistake to ban advanced financial technology and risk management _meta_end_dot_
+
+ anything that reduces friction in capital markets has the practical effect of making more capital available _meta_end_dot_
+
+ the regulatory response to this should be to extend the same kinds of reserve net liquidity and capital ratio requirements to the newer kinds of capital that have been in place for decades with commercial banks _meta_end_dot_
+
+ how to do that _meta_end_question_
+
+ well there is a whole pack of devils in the details _meta_end_dot_
+
+ this needs to be done slowly and carefully _meta_end_dot_
+
+ as i said the nobel prizes haven t been earned yet _meta_end_dot_
+
+ borrowing short and lending long is what bankers have been doing ever since humans climbed down from the trees _meta_end_dot_
+
+ why is that activity not dangerous _meta_end_question_
+
+ because bank deposits tend to be relatively stable _meta_end_dot_
+
+ and why is that _meta_end_question_
+
+ in large part because of deposit insurance _meta_end_dot_
+
+ but the bear stearns episode shone a bright light on an aspect of daily wall street life that perhaps escaped many people _meta_end_dot_
+
+ investment banks and broker dealers borrow and repay gargantuan amounts of money every night _meta_end_dot_
+
+ it s how they finance their asset portfolios _meta_end_dot_
+
+ but there s no deposit insurance available for money flows that measure in the trillions of dollars every single night _meta_end_dot_
+
+ and disrupting that flow of short term funds is what almost melted the world down a week and a half ago _meta_end_dot_
+
+ francis cianfrocca blackhedd 
+
