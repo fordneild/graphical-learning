@@ -5,6 +5,7 @@ This file is where you will write all of your code!
 """
 
 import numpy as np
+import random
 from scipy.special import gammaln
 from tqdm import tqdm
 
@@ -62,7 +63,7 @@ class GibbsSampling(Inference):
         self.ndz = np.zeros((self.num_docs, self.num_topics))
         self.nzw = np.zeros((self.num_topics, self.num_words))
         self.nz = np.zeros(self.num_topics)
-        self.topics = {}
+        self.topics = {} # this is Z in the assignment sheet
 
 
     def initialize(self, X):
@@ -74,7 +75,15 @@ class GibbsSampling(Inference):
                 [num_docs, num_words].
         """
         # TODO: Implement this!
-        raise Exception("You must implement this method!")
+        t = 0
+        K = self.nzw.shape[0]
+        for wordFreq, docNum, wordNum in zip(X.data, X.row, X.col):
+            topic = t % K
+            self.ndz[docNum][topic]+= 1 # or is it += wordFreq |||| the number of words assigned to topic z in document d
+            self.nzw[wordNum][topic]+= wordFreq # the number of times word w is assigned topic z
+            self.nz[topic]+=1 # the number of times any word is assigned to topic z
+            t +=1
+        # raise Exception("You must implement this method!")
 
 
     def inference(self, *, X, iterations):
@@ -136,6 +145,8 @@ class SumProduct(Inference):
             X: A compressed sparse row matrix of floats with shape
                 [num_docs, num_words].
         """
+        self.mu_wd = np.random.RandomState(seed=0).rand(X.nnz, self.num_topics)
+        self.mu_wd /= self.mu_wd.sum(axis=1, keepdims = True)
         # TODO: Implement this!
         raise Exception("You must implement this method!")
 
@@ -144,6 +155,8 @@ class SumProduct(Inference):
         """
         Use message-passing to for topic assignments and use to determine 
         document portions and topic-word distributions.
+
+        Make sure to transpose phi when setting to self.phi
 
         Args:
             X: A compressed sparse row matrix of ints with shape
@@ -154,12 +167,19 @@ class SumProduct(Inference):
         raise Exception("You must implement this method!")
 
 
-    def _loglikelihood(self):
+    def _loglikelihood(self, X):
         """
-        This code will be provided to you soon.
-
         Compute model likelihood: log p(w,z) = log p(w|z) + log p(z)
         You should call this method at the end of each iteration and append
         result to self.likelihoods.
         """
-        pass
+        docs, words, data = X.row, X.col, X.data.astype(float)
+        ll = 0
+        for k in range(self.num_topics):
+            for d, w in zip(docs, words):
+                wrows = words[np.where(docs == d)[0]]
+                drows = docs[np.where(words == w)[0]]
+                ll += gammaln(data[wrows] @ self.mu_wd[wrows, k] + self.alpha) - gammaln(np.sum(data[wrows] @ self.mu_wd[wrows] + self.alpha))
+                ll += gammaln(data[drows] @ self.mu_wd[drows, k] + self.beta) - gammaln(np.sum(data @ self.mu_wd + self.beta))
+
+        return ll
