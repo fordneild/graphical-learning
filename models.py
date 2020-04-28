@@ -77,11 +77,14 @@ class GibbsSampling(Inference):
         # TODO: Implement this!
         t = 0
         K = self.nzw.shape[0]
+        data = X.data
+        print('data',data, data.shape, type(data), 'hello?')
         for wordFreq, docNum, wordNum in zip(X.data, X.row, X.col):
             topic = t % K
-            self.ndz[docNum][topic]+= 1 # or is it += wordFreq |||| the number of words assigned to topic z in document d
-            self.nzw[wordNum][topic]+= wordFreq # the number of times word w is assigned topic z
-            self.nz[topic]+=1 # the number of times any word is assigned to topic z
+            self.topics[(wordNum, docNum)] = topic
+            self.ndz[docNum][topic]+= 1 # the number of words assigned to topic z in document d
+            self.nzw[topic][wordNum]+= 1 # the number of times word w is assigned topic z
+            self.nz[topic]+= 1 # the number of times any word is assigned to topic z
             t +=1
         # raise Exception("You must implement this method!")
 
@@ -97,7 +100,51 @@ class GibbsSampling(Inference):
             iterations: int giving number of iterations
         """
         # TODO: Implement this!
-        raise Exception("You must implement this method!")
+        self.initialize(X)
+        for _ in range(iterations):
+            for wordFreq, docNum, wordNum in zip(X.data, X.row, X.col):
+                topic = self.topics[(wordNum, docNum)]
+                self.ndz[docNum][topic] -= 1 if self.ndz[docNum][topic] else 0
+                self.nzw[topic][wordNum] -= 1 if self.nzw[topic][wordNum] else 0
+                self.nz[topic] -= 1 if self.nz[topic] else 0
+                posterior = self._conditional(docNum, wordNum)
+                # numpy sample from distribution using dirichlet function
+                # which of these?
+                #   https://numpy.org/doc/1.18/reference/random/generated/numpy.random.dirichlet.html?highlight=dirichlet#numpy.random.dirichlet
+                #   https://numpy.org/doc/stable/reference/random/generated/numpy.random.multinomial.html?highlight=random%20multinomial#numpy.random.multinomial
+                # sample = np.random.dirichlet(posterior)
+                numExperiments = 1 # ? what is this
+                # print('post', posterior, np.sum(posterior))
+                sample = np.random.multinomial(numExperiments, posterior)
+                # then argmax to get the index of whatever has 1 in it
+                # set topic to that topic
+                topic = np.argmax(sample)
+                # increment counters using that topic
+                self.ndz[docNum][topic] += 1
+                self.nzw[topic][wordNum] += 1
+                self.nz[topic] += 1
+            # compute log-likelihood
+            self.loglikelihoods.append(self._loglikelihood())
+            print('iteration', len(self.loglikelihoods), self.loglikelihoods[-1])
+        # compute theta
+        top = np.add(self.ndz, self.alpha)
+        bot = np.sum(np.add(self.ndz, self.alpha), 1)
+        # print('bot.shape',bot.shape)
+        bot = np.transpose(np.tile(bot, (top.shape[1], 1)))
+        
+        self.theta = np.divide(top, bot)
+        # print('theta',self.theta, self.theta.shape)
+        # compute phi
+        top = np.add(self.nzw, self.beta)
+        # print('top.shape', top.shape)
+        bot = np.sum(np.add(self.nzw, self.beta), 1)
+        # print('bot.shape1',bot.shape)
+        bot = np.transpose(np.tile(bot, (top.shape[1], 1)))
+        self.phi = np.divide(top, bot)
+        
+        
+        # print('phi',self.phi, self.phi.shape)
+
 
 
     def _conditional(self, d, w):
@@ -105,7 +152,18 @@ class GibbsSampling(Inference):
         Compute the posterior probability p(z=k|·).
         """
         # TODO: Implement this!
-        raise Exception("You must implement this method!")
+        topic = self.topics[(w, d)]
+        # ndz = np.add(np.delete(self.ndz, topic, 1), self.alpha)
+        # nzw = np.add(np.delete(self.nzw, topic, 0), self.beta)
+        ndz = np.add(self.ndz[d], self.alpha)
+        nzw = np.add(self.nzw[:, w], self.beta)
+        top = np.multiply(ndz, nzw)
+        bot = np.sum(np.add(self.nzw, self.beta), 1)
+        raw = np.divide(top, bot).astype('float64')
+        # normalize
+        normalized = np.divide(raw, np.sum(raw))
+        return normalized
+        
 
 
     def _loglikelihood(self):
